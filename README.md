@@ -13,7 +13,6 @@
 
 **Contact**
 - Email: nagidsta@gmail.com  
-- All platforms username: nagdista  
 - GitHub: https://github.com/nagdista-dev  
 ---
 
