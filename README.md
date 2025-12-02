@@ -38,27 +38,6 @@
 - VS Code  
 ---
 
-**GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nagdista-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagdista-dev&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  ![states](https://github-readme-stats.vercel.app/api?username=nagdista-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-</p>
----
-
-**Contact**
-- Email: nagidsta@gmail.com  
-- All platforms username: nagdista  
-- GitHub: https://github.com/nagdista-dev  
-
----
-
 **Quote**
 > Keep learning, keep building.
 
