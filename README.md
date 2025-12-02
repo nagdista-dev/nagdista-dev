@@ -1,14 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mhmoud Alnagdy 👋</h1>
+<h3 align="center">Fullstack MERN Developer</h3>
 
-**nagdista-dev/nagdista-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**About Me**
+- I build fullstack web applications using the MERN stack  
+- Passionate about problem-solving and writing clean, scalable code  
+- Always exploring new technologies and improving my development workflow  
+- My goal is to build impactful products that make users’ lives easier  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+**Tech Stack**
+
+**Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- React.js  
+
+**Backend**
+- Node.js  
+- Express.js  
+- Mongoose  
+- REST APIs  
+
+**Databases**
+- MongoDB  
+
+**Other Skills**
+- Git & GitHub  
+- C++  
+- Python  
+- Linux basics  
+- Postman  
+- VS Code  
+
+---
+
+**GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nagdista&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagdista&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+**Contact**
+- Email: nagidsta@gmail.com  
+- All platforms username: nagdista  
+- GitHub: https://github.com/nagdista  
+
+---
+
+**Quote**
+> Keep learning, keep building.
+
