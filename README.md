@@ -11,34 +11,6 @@
 
 ---
 
-**Tech Stack**
-
-**Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- TypeScript  
-- React.js  
-
-**Backend**
-- Node.js  
-- Express.js  
-- Mongoose  
-- REST APIs  
-
-**Databases**
-- MongoDB  
-
-**Other Skills**
-- Git & GitHub  
-- C++  
-- Python  
-- Linux basics  
-- Postman  
-- VS Code  
-
----
-
 **Contact**
 - Email: nagidsta@gmail.com  
 - All platforms username: nagdista  
