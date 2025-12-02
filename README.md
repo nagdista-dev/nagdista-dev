@@ -48,7 +48,7 @@
 </p>
 
 <p>
-  [states](https://github-readme-stats.vercel.app/api?username=nagdista-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+  ![states](https://github-readme-stats.vercel.app/api?username=nagdista-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 </p>
 ---
 
